@@ -21,15 +21,34 @@ PlayFab offers a scalable and reliable multiplayer server infrastructure that al
 ## Content Management: 
 PlayFab provides a content management system that enables game developers to manage and deploy game content, such as game assets, levels, and quests, across multiple platforms and devices.
 
-## Your game's title ID:
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Try it
+
+1. Clone this repository
+2. Run the following commands:
+    ```bash
+    npm install
+    npm run start
+    ```
+3. This will open a web browser running the site in debug mode
+4. Your game's title ID:
+    ```bash
     96D0A
-
-## First time
+    ```
+5. First time playing the game
 To play the game, you must upload game data. This will make your title ready to play.
-click Upload Data
-
-## Enter Security Key:
+click [Upload Data]
+6. Enter Security Key:
+    ```bash
     51UA1YDB34BHYBFHEPTBUKBTESJGUBXS1P1OAO9J4HE4PZJF13
+    ```
+7. Once Uploaded data "Ready to play"
+If your title has data, select play game to create a new player or sign in as an existing player.
+Click [Play game]
+8. Login and Enjoy the Game.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Vanguard Outrider
 
