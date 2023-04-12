@@ -51,7 +51,7 @@ Click [Play game]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Team 4
 
-1.Sai Kiran Reddy Namireddy
-2.Revanth Nallamothu
-3.Sai krishna Vala
-4.Kiran Kumar Pannala
+1. Sai Kiran Reddy Namireddy
+2. Revanth Nallamothu
+3. Sai krishna Vala
+4. Kiran Kumar Pannala
