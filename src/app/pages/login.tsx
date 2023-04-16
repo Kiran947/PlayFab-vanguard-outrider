@@ -35,7 +35,7 @@ export const LoginPage: React.FunctionComponent = React.memo(() => {
 	);
 	const dispatch = useDispatch();
 
-	const [playerName, setplayerName] = useState("96D0A"); // by default setted the TitleID of Playfab account
+	const [playerName, setplayerName] = useState(""); 
 	const [isLoggingIn, setisLoggingIn] = useState(false);
 
 	const loadEquipment = useCallback(
