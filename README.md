@@ -19,14 +19,14 @@
     npm run start
     ```
 3. This will open a web browser running the site in debug mode
-4. Your game's title ID:
+4. Your game's title ID: (Default value set)
     ```bash
     96D0A
     ```
 5. First time playing the game
 To play the game, you must upload game data. This will make your title ready to play.
 click [Upload Data]
-6. Enter Security Key:
+6. Enter Security Key:  (Default value set)
     ```bash
     51UA1YDB34BHYBFHEPTBUKBTESJGUBXS1P1OAO9J4HE4PZJF13
     ```
