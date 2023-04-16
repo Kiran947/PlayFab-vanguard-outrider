@@ -46,8 +46,8 @@ export const UploadPage: React.FunctionComponent = React.memo(() => {
 	const [titledataStage, settitledataStage] = useState<DownloadProgress>(DownloadProgress.Waiting);
 	const [cloudscriptStage, setcloudscriptsetStage] = useState<DownloadProgress>(DownloadProgress.Waiting);
 
-	const [uploadTitle, setUploadTitle] = useState("");
-	const [secretKey, setsecretKey] = useState<string>(null);
+	const [uploadTitle, setUploadTitle] = useState("96D0A"); //Upadeted TitleID and Secret key with our PlayFeb account
+	const [secretKey, setsecretKey] = useState<string>("51UA1YDB34BHYBFHEPTBUKBTESJGUBXS1P1OAO9J4HE4PZJF13");
 	const [hasSecretKey, sethasSecretKey] = useState(false);
 	const [shouldShowTitleNewsFormat, setshouldShowTitleNewsFormat] = useState(false);
 
