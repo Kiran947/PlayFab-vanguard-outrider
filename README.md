@@ -1,4 +1,4 @@
-# PlayFab provides:
+# PlayFab provides backend services like :
 
 1. Player Authentication
 2. Player Data Management
