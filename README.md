@@ -1,25 +1,12 @@
 # PlayFab provides:
 
-## Player Authentication: 
-PlayFab provides a secure and scalable player authentication system that allows players to create accounts, sign in, and manage their profiles across multiple platforms and devices.
-
-## Player Data Management: 
-PlayFab offers a flexible and robust player data management system that allows game developers to store and manage player data, such as player inventories, game progress, and achievements.
-
-## Matchmaking: 
-PlayFab provides a matchmaking service that enables game developers to create and manage custom matchmaking rules and algorithms to help players find opponents and teammates quickly and easily.
-
-## LiveOps Tools: 
-PlayFab offers a suite of LiveOps tools, such as push notifications, in-game messaging, and virtual economy management, that enable game developers to engage and monetize players in real-time.
-
-## Analytics: 
-PlayFab provides powerful analytics tools that help game developers track and measure player behavior, engagement, and revenue, so that they can optimize their games and make data-driven decisions.
-
-## Multiplayer Servers: 
-PlayFab offers a scalable and reliable multiplayer server infrastructure that allows game developers to build and deploy custom multiplayer games quickly and easily.
-
-## Content Management: 
-PlayFab provides a content management system that enables game developers to manage and deploy game content, such as game assets, levels, and quests, across multiple platforms and devices.
+1. Player Authentication
+2. Player Data Management
+3. Matchmaking
+4. LiveOps Tools
+5. Analytics
+6. Multiplayer Servers
+7. Content Management
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
