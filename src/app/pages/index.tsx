@@ -39,7 +39,7 @@ export const IndexPage: React.FunctionComponent = React.memo(() => {
 	const { cloud: cloudParam = MAIN_CLOUD } = useParams<ICloudParams>();
 	const dispatch = useDispatch();
 
-	const [titleId, settitleId] = useState("");
+	const [titleId, settitleId] = useState("96D0A"); //Upadeted TitleID with our PlayFeb account
 	const [cloud, setcloud] = useState(cloudParam);
 	const [error, seterror] = useState("");
 
